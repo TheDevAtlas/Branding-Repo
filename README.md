@@ -8,49 +8,37 @@ TheDevAtlas represents innovation, development expertise, and creative problem-s
 
 ## 📋 Logo Variations (2025)
 
-### Primary Logo
-![TheDevAtlas Logo](2025/Logo.png)
+### Primary Logos
+| Standard | With Glow Effect |
+|----------|------------------|
+| ![TheDevAtlas Logo](2025/Logo.png) | ![Logo with Glow](2025/Logo%20w%20Glow.png) |
+| Core brand identity with clean lines and modern typography | Special variant with glow effect for digital applications and dark themes |
 
-The primary logo represents the core brand identity with clean lines and modern typography.
+### Primary Word Marks
+| Standard | With Glow Effect |
+|----------|------------------|
+| ![Word Mark](2025/Word%20Mark.png) | ![Word Mark with Glow](2025/Word%20Mark%20w%20Glow.png) |
+| Standalone word mark for text-heavy applications | Special effect variant for digital and interactive applications |
 
-### Logo with Background
-![Logo with Background](2025/Logo%20w%20Back.png)
+### Background Variants
+| Logo with Background | Word Mark with Background |
+|---------------------|---------------------------|
+| ![Logo with Background](2025/Logo%20w%20Back.png) | ![Word Mark with Background](2025/Word%20Mark%20w%20Back.png) |
+| For use on light backgrounds or when additional contrast is needed | Enhanced visibility variant with background for improved contrast |
 
-For use on light backgrounds or when additional contrast is needed.
+### Additional Variants
 
-### Logo with Glow Effect
-![Logo with Glow](2025/Logo%20w%20Glow.png)
-
-Special variant with glow effect for digital applications and dark themes.
-
-## 🔤 Word Marks
-
-### Primary Word Mark
-![Word Mark](2025/Word%20Mark.png)
-
-The standalone word mark for text-heavy applications and minimal branding needs.
-
-### Word Mark with Background
-![Word Mark with Background](2025/Word%20Mark%20w%20Back.png)
-
-Enhanced visibility variant with background for improved contrast.
-
-### Word Mark with Glow
-![Word Mark with Glow](2025/Word%20Mark%20w%20Glow.png)
-
-Special effect variant for digital and interactive applications.
-
-### Square Word Mark
+#### Square Word Mark
 ![Square Word Mark](2025/Word%20Mark%20Square.png)
 
 Optimized for square format applications like social media profile images.
 
-### Reduced Background Variant
+#### Reduced Background Variant
 ![Reduced Background Word Mark](2025/Word%20Mark%20w%20Back%20-%20Reduced.png)
 
 Subtle background variant for applications requiring minimal visual weight.
 
-### Text-Only Version
+#### Text-Only Version
 ![Words Only](2025/Words.png)
 
 Pure text version for applications where only typography is needed.
