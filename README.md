@@ -28,16 +28,6 @@ TheDevAtlas represents innovation, development expertise, and creative problem-s
 
 ### Additional Variants
 
-#### Square Word Mark
-![Square Word Mark](2025/Word%20Mark%20Square.png)
-
-Optimized for square format applications like social media profile images.
-
-#### Reduced Background Variant
-![Reduced Background Word Mark](2025/Word%20Mark%20w%20Back%20-%20Reduced.png)
-
-Subtle background variant for applications requiring minimal visual weight.
-
 #### Text-Only Version
 ![Words Only](2025/Words.png)
 
