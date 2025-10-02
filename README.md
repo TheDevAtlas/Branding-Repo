@@ -2,36 +2,32 @@
 
 Welcome to the official branding repository for **TheDevAtlas**. This document serves as a comprehensive guide to the brand identity, logo usage, and visual assets.
 
-## 🎨 Brand Identity
-
-TheDevAtlas represents innovation, development expertise, and creative problem-solving in the digital space. The brand combines technical precision with artistic flair, reflected in its clean, modern visual identity.
-
 ## 📋 Logo Variations (2025)
 
 ### Primary Logos
 | Standard | With Glow Effect |
 |----------|------------------|
 | ![TheDevAtlas Logo](2025/Logo.png) | ![Logo with Glow](2025/Logo%20w%20Glow.png) |
-| Core brand identity with clean lines and modern typography | Special variant with glow effect for digital applications and dark themes |
+| Core brand identity with clean lines | Special variant with glow effect for digital applications and dark themes |
 
 ### Primary Word Marks
 | Standard | With Glow Effect |
 |----------|------------------|
 | ![Word Mark](2025/Word%20Mark.png) | ![Word Mark with Glow](2025/Word%20Mark%20w%20Glow.png) |
-| Standalone word mark for text-heavy applications | Special effect variant for digital and interactive applications |
+| Standalone word mark with typography | Special effect variant for digital and interactive applications |
 
 ### Background Variants
 | Logo with Background | Word Mark with Background |
 |---------------------|---------------------------|
 | ![Logo with Background](2025/Logo%20w%20Back.png) | ![Word Mark with Background](2025/Word%20Mark%20w%20Back.png) |
-| For use on light backgrounds or when additional contrast is needed | Enhanced visibility variant with background for improved contrast |
+| Basic logo with background | Word mark with background |
 
 ### Additional Variants
 
 #### Text-Only Version
 ![Words Only](2025/Words.png)
 
-Pure text version for applications where only typography is needed.
+Pure text version for applications where only typography is needed or for combined use with the clean logo on the side.
 
 ## 📐 Usage Guidelines
 
