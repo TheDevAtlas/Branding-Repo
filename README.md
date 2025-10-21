@@ -3,12 +3,12 @@
 Welcome to the official branding repository for **TheDevAtlas**. This document serves as a comprehensive guide to the brand identity, logo usage, and visual assets.
 
 ## Standard Banner
-![Words Only](Banner/GitHub Banner.png)
+![Banner](Banner/GitHub%20Banner.png)
 
 This image and its Illustrator file is the base for ALL other banners. Other banners use the same assets / core style.
 
 ## Headshot
-![Words Only](Headshot/Headshot.png)
+![Headshot](Headshot/Headshot.png)
 
 My up to date headshot.
 
@@ -37,7 +37,7 @@ My up to date headshot.
 #### Text-Only Version
 | Words | Stacked Words |
 |---------------------|---------------------------|
-| ![Words Only](Logo/Words.png) | ![Words Only](Logo/WordMarkAlpha - Only Words.png) |
+| ![Words Only](Logo/Words.png) | ![Word Mark Stacked](Logo/WordMarkAlpha%20-%20Only Words.png) |
 
 Pure text version for applications where only typography is needed or for combined use with the clean logo on the side.
 
