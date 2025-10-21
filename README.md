@@ -37,7 +37,7 @@ My up to date headshot.
 #### Text-Only Version
 | Words | Stacked Words |
 |---------------------|---------------------------|
-| ![Words Only](Logo/Words.png) | ![Word Mark Stacked](Logo/WordMarkAlpha%20-%20Only Words.png) |
+| ![Words Only](Logo/Words.png) | ![Word Mark Stacked](Logo/WordsStacked.png) |
 
 Pure text version for applications where only typography is needed or for combined use with the clean logo on the side.
 
