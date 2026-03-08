@@ -7,8 +7,6 @@
 ---
 
 [![Core](https://img.shields.io/badge/📁_Core-3a3f58?style=for-the-badge)](_Core/)
-[![Projects](https://img.shields.io/badge/📂_Projects-3a3f58?style=for-the-badge)](Projects/)
-[![Steam](https://img.shields.io/badge/🎮_Steam-3a3f58?style=for-the-badge)](Steam/)
 [![Video](https://img.shields.io/badge/🎬_Video-3a3f58?style=for-the-badge)](Video/)
 
 ---
@@ -19,10 +17,9 @@
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| **Logo Glow** | **GitHub Logo** |
-| <img src="_Core/Exports/Logo-Glow.png" width="180"/> | <img src="_Core/Exports/GitHub-Logo.png" width="180"/> |
+| **Logo** |
+|:---:|
+| <img src="_Core/Exports/Logo.png" width="180"/> |
 
 </div>
 
@@ -30,17 +27,13 @@
 
 <div align="center">
 
-| **Banner Glow** |
+| **Banner** |
 |:---:|
-| <img src="_Core/Exports/Banner-Glow.png" width="540"/> |
+| <img src="_Core/Exports/Banner.png" width="540"/> |
 
 | **GitHub Banner** |
 |:---:|
-| <img src="_Core/Exports/Banner-GitHub.png" width="540"/> |
-
-| **Itch.io Banner** |
-|:---:|
-| <img src="_Core/Exports/Itch-Banner.png" width="540"/> |
+| <img src="_Core/Exports/GithubBanner.png" width="540"/> |
 
 </div>
 
@@ -50,6 +43,13 @@
 
 ### Source Files
 
-Source `.ai` files are located in [`_Core/Source/`](_Core/Source/).
+Source files are located in [`_Core/Source/`](_Core/Source/).
+
+| File | Type |
+|:---|:---|
+| `Logo.ai` | Logo source |
+| `Banner.ai` | Banner source |
+| `Arrow.png` | Arrow asset |
+| `VideoCollage.png` | Video collage asset |
 
 </div>
