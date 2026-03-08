@@ -24,3 +24,35 @@
 | <img src="_Core/Exports/Banner.png" width="540"/> | <img src="_Core/Exports/GithubBanner.png" width="540"/> | <img src="_Core/Exports/ItchBanner.png" width="540"/> |
 
 </div>
+
+---
+
+<div align="center">
+
+## Colors
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://placehold.co/90x90/21b6cc/21b6cc.png" width="90" height="90"/><br/><br/>
+      <code>#21b6cc</code><br/><br/>
+      <img src="https://img.shields.io/badge/copy-%2321b6cc-21b6cc?style=flat-square"/>
+    </td>
+    <td align="center" width="180">
+      <img src="https://placehold.co/90x90/1176d5/1176d5.png" width="90" height="90"/><br/><br/>
+      <code>#1176d5</code><br/><br/>
+      <img src="https://img.shields.io/badge/copy-%231176d5-1176d5?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Font
+
+**Proxima Nova — Black Italic**
+*Sourced through Adobe Fonts*
