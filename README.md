@@ -19,8 +19,8 @@
 
 <div align="center">
 
-| **YouTube Banner** | **Other Sites Banner** |
-|:---:|:---:|
-| <img src="_Core/Exports/Banner.png" width="540"/> | <img src="_Core/Exports/GithubBanner.png" width="540"/> |
+| **YouTube Banner** | **GitHub Banner** | **Itch Banner** | 
+|:---:|:---:|:---:|
+| <img src="_Core/Exports/Banner.png" width="540"/> | <img src="_Core/Exports/GithubBanner.png" width="540"/> | <img src="_Core/Exports/ItchBanner.png" width="540"/> |
 
 </div>
