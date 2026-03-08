@@ -49,7 +49,5 @@ Source files are located in [`_Core/Source/`](_Core/Source/).
 |:---|:---|
 | `Logo.ai` | Logo source |
 | `Banner.ai` | Banner source |
-| `Arrow.png` | Arrow asset |
-| `VideoCollage.png` | Video collage asset |
 
 </div>
