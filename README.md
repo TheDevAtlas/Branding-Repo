@@ -15,9 +15,9 @@
 
 <div align="center">
 
-| **Logo** |
-|:---:|
-| <img src="_Core/Exports/Logo.png" width="180"/> |
+| **Logo** | **White** | **Black** | **Blue** |
+|:---:|:---:|:---:|:---:|
+| <img src="_Core/Exports/Logo.png" width="180"/> | <img src="_Core/Exports/Logo_White.png" width="180"/> | <img src="_Core/Exports/Logo_Black.png" width="180"/> | <img src="_Core/Exports/Logo_Blue.png" width="180"/> |
 
 </div>
 
