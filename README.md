@@ -13,8 +13,6 @@
 
 </div>
 
-## Logos
-
 <div align="center">
 
 | **Logo** |
@@ -23,21 +21,13 @@
 
 </div>
 
-## Banners
-
 <div align="center">
 
-| **Banner** |
-|:---:|
-| <img src="_Core/Exports/Banner.png" width="540"/> |
-
-| **GitHub Banner** |
-|:---:|
-| <img src="_Core/Exports/GithubBanner.png" width="540"/> |
+| **Banner** | **GitHub Banner** |
+|:---:|:---:|
+| <img src="_Core/Exports/Banner.png" width="540"/> | <img src="_Core/Exports/GithubBanner.png" width="540"/> |
 
 </div>
-
----
 
 <div align="center">
 
