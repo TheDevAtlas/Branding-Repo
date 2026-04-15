@@ -11,9 +11,9 @@
 
 <div align="center">
 
-| **Logo** | **White** | **Black** | **Blue** |
+| **Logo** | **Logo (No Background)** | **Logo (No Background, White)** | **Wordmark** |
 |:---:|:---:|:---:|:---:|
-| <img src="_Core/Exports/Logo.png" width="180"/> | <img src="_Core/Exports/Logo_White.png" width="180"/> | <img src="_Core/Exports/Logo_Black.png" width="180"/> | <img src="_Core/Exports/Logo_Blue.png" width="180"/> |
+| <img src="_Core/Exports/Logo.png" width="180"/> | <img src="_Core/Exports/Logo_NoBack.png" width="180"/> | <img src="_Core/Exports/Logo_NoBack_White.png" width="180"/> | <img src="_Core/Exports/WordMark.png" width="180"/> |
 
 </div>
 

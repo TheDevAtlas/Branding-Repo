@@ -70,3 +70,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Adobe Premiere generated cache and preview files
+**/Adobe Premiere Pro Audio Previews/
+**/Adobe Premiere Pro Video Previews/
+**/Media Cache/
+*.pek
+*.cfa
